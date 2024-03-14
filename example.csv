@@ -8,8 +8,8 @@ Zeitraum;14.02.2024 - 14.03.2024
 
 Sortierung;Datum absteigend
 
-In der CSV-Datei finden Sie alle bereits gebuchten Umsätze. Die vorgemerkten Umsätze werden nicht aufgenommen, auch wenn sie in Ihrem Internetbanking angezeigt werden.
+In der CSV-Datei finden Sie alle bereits gebuchten Umsï¿½tze. Die vorgemerkten Umsï¿½tze werden nicht aufgenommen, auch wenn sie in Ihrem Internetbanking angezeigt werden.
 
-Buchung;Valuta;Auftraggeber/Empfänger;Buchungstext;Verwendungszweck;Betrag;Währung
-14.03.2024;14.03.2024;HANSER + LEIBER GMBH;Lastschrift;HANSER + LEIBER GMB//BERLIN/DE 202 4-03-13T15:59:53 Folgenr.123 Verfal ld.2027-12;-456,62;EUR
-13.03.2024;13.03.2024;Penny;Lastschrift;PENNY SAGT DANKE. 6623213/BERLIN /DE 2024-03-12T10:02:15 Folgenr.123 Verfalld.2027-12;-18,09;EUR
+Buchung;Valuta;Auftraggeber/Empfï¿½nger;Buchungstext;Verwendungszweck;Betrag;Wï¿½hrung
+14.03.1990;14.03.2024;HANSER + LEIBER GMBH;Lastschrift;HANSER + LEIBER GMB//BERLIN/DE 202 4-03-13T15:59:53 Folgenr.123 Verfal ld.2027-12;-456,62;EUR
+13.03.2000;13.03.2024;Penny;Lastschrift;PENNY SAGT DANKE. 6623213/BERLIN /DE 2024-03-12T10:02:15 Folgenr.123 Verfalld.2027-12;-18,09;EUR
